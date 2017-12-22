@@ -1,0 +1,23 @@
+{
+  "name": "electroneum-nodejs",
+  "version": "0.1.0",
+  "description": "Electroneum node.js api for wallet rpc",
+  "main": "./lib/wallet.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00t1000/electroneum-nodejs.git"
+  },
+  "keywords": [
+    "electroneum",
+    "crypto",
+    "node.js",
+    "cryptocurrency",
+    "bitcoin",
+    "simplewallet"
+    ],
+  "author": "YogiHD (r00t1000)",
+  "license": "MIT"
+}
